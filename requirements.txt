@@ -158,7 +158,6 @@ pydantic_core==2.27.2
 pydeck==0.9.1
 pydot==3.0.4
 Pygments==2.19.1
-pymupdf==1.23.0
 pyparsing==3.1.4
 pyproj==3.6.1
 pyshp==2.3.1
@@ -166,6 +165,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2025.1
 pyviz_comms==3.0.4
+pywin32==308
 pyxnat==1.6.3
 PyYAML==6.0.2
 pyzbar==0.1.9
@@ -199,7 +199,7 @@ tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
-tensorflow==2.18.0
+tensorflow_intel==2.18.0
 termcolor==2.5.0
 tf_keras==2.18.0
 threadpoolctl==3.5.0
