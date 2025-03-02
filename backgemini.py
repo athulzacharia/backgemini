@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS  # Allow frontend access
-import fitz  # PyMuPDF for PDF processing
+import pymupdf as fitz  # Ensure correct import
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
