@@ -165,7 +165,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2025.1
 pyviz_comms==3.0.4
-pywin32==308
 pyxnat==1.6.3
 PyYAML==6.0.2
 pyzbar==0.1.9
